@@ -1,3 +1,3 @@
 # Typescript Learning
 
-A simple repo fro studying Typescritp
+A simple repo for studying Typescript
